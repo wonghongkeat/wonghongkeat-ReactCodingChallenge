@@ -1,0 +1,9 @@
+h1, p{
+    text-align: center;
+    margin: 20px;
+    font-weight: bold
+}
+
+body{
+    background-color: lightslategray
+}

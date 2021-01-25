@@ -2,12 +2,18 @@
 
 Using React to create a simple web app to retrieve and display the photos from <a href="https://unsplash.com/">Unsplash</a>.
 
+# Demo 
+
+The web app is pushed and published on Github Pages:
+
+https://wonghongkeat.github.io/wonghongkeat-ReactCodingChallenge/
+
 # Technologies used
 
 The following are a list of technologies use to create the web:
 1. Unsplash Api 
-    * <a href="https://unsplash.com/developers">https://unsplash.com/developers</a>
     * Using the API provided by Unsplash able to retrieve the photos.
+    * <a href="https://unsplash.com/developers">https://unsplash.com/developers</a>
 
 2. React
     * npx create-react-app <name>

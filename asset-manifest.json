@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wonghongkeat-ReactCodingChallenge/static/css/main.9f81fe7a.chunk.css",
+    "main.js": "/wonghongkeat-ReactCodingChallenge/static/js/main.e6eacff8.chunk.js",
+    "main.js.map": "/wonghongkeat-ReactCodingChallenge/static/js/main.e6eacff8.chunk.js.map",
+    "runtime-main.js": "/wonghongkeat-ReactCodingChallenge/static/js/runtime-main.c98515f0.js",
+    "runtime-main.js.map": "/wonghongkeat-ReactCodingChallenge/static/js/runtime-main.c98515f0.js.map",
+    "static/css/2.150d169a.chunk.css": "/wonghongkeat-ReactCodingChallenge/static/css/2.150d169a.chunk.css",
+    "static/js/2.0451f884.chunk.js": "/wonghongkeat-ReactCodingChallenge/static/js/2.0451f884.chunk.js",
+    "static/js/2.0451f884.chunk.js.map": "/wonghongkeat-ReactCodingChallenge/static/js/2.0451f884.chunk.js.map",
+    "static/js/3.7b1c3f37.chunk.js": "/wonghongkeat-ReactCodingChallenge/static/js/3.7b1c3f37.chunk.js",
+    "static/js/3.7b1c3f37.chunk.js.map": "/wonghongkeat-ReactCodingChallenge/static/js/3.7b1c3f37.chunk.js.map",
+    "index.html": "/wonghongkeat-ReactCodingChallenge/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/wonghongkeat-ReactCodingChallenge/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9f81fe7a.chunk.css.map": "/wonghongkeat-ReactCodingChallenge/static/css/main.9f81fe7a.chunk.css.map",
+    "static/js/2.0451f884.chunk.js.LICENSE.txt": "/wonghongkeat-ReactCodingChallenge/static/js/2.0451f884.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c98515f0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.0451f884.chunk.js",
+    "static/css/main.9f81fe7a.chunk.css",
+    "static/js/main.e6eacff8.chunk.js"
+  ]
+}
